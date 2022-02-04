@@ -99,8 +99,8 @@ public class ProdutoCategoriaFrame extends JFrame {
 		botarApagar = new JButton("Excluir");
 		botaoEditar = new JButton("Alterar");
 
-		botarApagar.setBounds(100, 500, 80, 20);
-		botaoEditar.setBounds(100, 500, 80, 20);
+		botarApagar.setBounds(10, 500, 100, 20);
+		botaoEditar.setBounds(120, 500, 100, 20);
 
 		container.add(botarApagar);
 		container.add(botaoEditar);
